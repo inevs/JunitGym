@@ -1,10 +1,4 @@
-# Clone repo into own Project
-
-```
-git clone <repo> my-project
-```
-
-# Working with the code
+# Simple project to show how to use Junit
 
 Run all tests with `./gradlew` (*nix) or `gradlew.bat` (Windows)
 
